@@ -1,0 +1,28 @@
+services:
+  orchestrator:
+    build: ./orchestrator
+    ports: 
+      - "80:4000"
+    environment:
+      USER_URL: ${USER_URL}
+      APP_URL: ${APP_URL}
+      REDIS_PASS : ${REDIS_PASS}
+  service-app:
+    build: ./services/app
+    ports: 
+      - "4002:4002"
+    environment:
+      NODE_ENV: production
+      JWT_SECRET: ${JWT_SECRET}
+      DATABASE_URL: ${DATABASE_URL}
+  service-user:
+    build: ./services/user
+    ports: 
+      - "4001:4001"
+    environment:
+      NODE_ENV: production
+      MONGO_CONNECTION: ${MONGO_CONNECTION}
+
+
+# docker build -t service-user:1.0 ./
+# docker container run --name service-user -p 4000:4000 service-user 

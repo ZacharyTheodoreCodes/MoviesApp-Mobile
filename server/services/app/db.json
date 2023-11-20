@@ -1,0 +1,242 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Barbie",
+      "slug": "barbie",
+      "synopsis": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "trailerUrl": "https://youtu.be/pBk4NYhWNMM?si=we61HmiAcaea-tEe",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/b2/a2/b2a2078a74e2e3b53693554ce3fbdd64/b2a2078a74e2e3b53693554ce3fbdd64.jpg",
+      "rating": 7,
+      "genreId": 6,
+      "authorId": 1,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 2,
+      "title": "Saw X",
+      "slug": "saw-x",
+      "synopsis": "Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable.",
+      "trailerUrl": "https://youtu.be/t3PzUo4P21c?si=ISTMF_r1rhqqShtU",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/d7/18/d718293c00206ab88508da84cb00456f/d718293c00206ab88508da84cb00456f.jpg",
+      "rating": 6,
+      "genreId": 1,
+      "authorId": 1,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 3,
+      "title": "Elemental",
+      "slug": "elemental",
+      "synopsis": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+      "trailerUrl": "https://youtu.be/hXzcyx9V0xw?si=KGQp055rz0jb00pv",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/75/69/7569a75e6c56bae74fc3ce3d1427606f/7569a75e6c56bae74fc3ce3d1427606f.jpg",
+      "rating": 6.5,
+      "genreId": 5,
+      "authorId": 1,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 4,
+      "title": "Brooklyn Nine-Nine",
+      "slug": "brooklyn-nine-nine",
+      "synopsis": "A ensemble comedy following the lives of a diverse group of detectives in a New York precinct.",
+      "trailerUrl": "https://youtu.be/faJAT35j5Ss",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/d8/6f/d86f60e52f85e1203c755318c6147fca/d86f60e52f85e1203c755318c6147fca.jpg",
+      "rating": 8.4,
+      "genreId": 3,
+      "authorId": 1,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 5,
+      "title": "Pain Hustlers",
+      "slug": "pain-hustlers",
+      "synopsis": "After losing her job, a single mom falls into a lucrative but ultimately dangerous scheme selling prescription drugs.",
+      "trailerUrl": "https://youtu.be/HbPeXsdamT4?si=-N4P1wPwGveGWgT9",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/65/4f/654f0329827226d1b4fbfeebda8547d2/654f0329827226d1b4fbfeebda8547d2.jpg",
+      "rating": 6.4,
+      "genreId": 6,
+      "authorId": 1,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 6,
+      "title": "Blue Beetle",
+      "slug": "blue-beetle",
+      "synopsis": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it.",
+      "trailerUrl": "https://youtu.be/4wxyy8Rcz4k?si=5PwmRyWYVLuraqF8",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/8e/d3/8ed3d05bf1a9f8738355d5b16a22b4d4/8ed3d05bf1a9f8738355d5b16a22b4d4.jpg",
+      "rating": 6.7,
+      "genreId": 2,
+      "authorId": 1,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 7,
+      "title": "A Business Proposal",
+      "slug": "a-business-proposal",
+      "synopsis": "Ha Ri takes place a blind date claiming to be her friend for a substantial cash payment-- yet she's alarmed to recognize 'her' date is Tae Mu, the CEO of the firm she works at. To make issues worse, he's dead set on weding her, uninformed that she's a worker of his. And the one point he despises most? Liars.",
+      "trailerUrl": "https://youtu.be/mh4R-WXRhQo",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/16/84/168415f9532156dbf5214845ffbf040f/168415f9532156dbf5214845ffbf040f.jpg",
+      "rating": 8.1,
+      "genreId": 6,
+      "authorId": 1,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 8,
+      "title": "Oppenheimer",
+      "slug": "oppenheimer",
+      "synopsis": "The story of J. Robert Oppenheimer’s role in the development of the atomic bomb during World War II.",
+      "trailerUrl": "https://youtu.be/uYPbbksJxIg?si=tE6TfvouxLsziTLs",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/b5/6a/b56a5aee9715743bb34b728e52b6bea0/b56a5aee9715743bb34b728e52b6bea0.jpg",
+      "rating": 8.8,
+      "genreId": 4,
+      "authorId": 1,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Horror",
+      "movieId": 1,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 2,
+      "name": "Action",
+      "movieId": 2,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 3,
+      "name": "Comedy",
+      "movieId": 3,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 4,
+      "name": "Documentary",
+      "movieId": 4,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 5,
+      "name": "Animation",
+      "movieId": 5,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 6,
+      "name": "Drama",
+      "movieId": 6,
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    }
+  ],
+  "casts": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "name": "Margot Robbie",
+      "profilePict": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg",
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "name": "Ryan Gosling",
+      "profilePict": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 3,
+      "movieId": 2,
+      "name": "Steven Brand",
+      "profilePict": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/oWkitw5jzILwb775CVGjsqMSrqz.jpg",
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 4,
+      "movieId": 2,
+      "name": "Shawnee Smith",
+      "profilePict": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/s2Ouz4b7xqDH72aU48TSW5zS40v.jpg",
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 5,
+      "movieId": 4,
+      "name": "Andy Samberg",
+      "profilePict": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg",
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 6,
+      "movieId": 5,
+      "name": "Chris Evans",
+      "profilePict": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3bOGNsHlrswhyW79uvIHH1V43JI.jpg",
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 7,
+      "movieId": 5,
+      "name": "Emily Blunt",
+      "profilePict": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nPJXaRMvu1vh3COG16GzmdsBySQ.jpg",
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 8,
+      "movieId": 7,
+      "name": "Kim Se-jeong",
+      "profilePict": "https://asianwiki.com/images/3/39/Kim_Se-Jeong-1996-p1.jpeg",
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 9,
+      "movieId": 7,
+      "name": "Ahn Hyo-seop",
+      "profilePict": "https://asianwiki.com/images/a/a1/Ahn_Hyo-Seop-1995-p1.jpg",
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 10,
+      "movieId": 8,
+      "name": "Cillian Murphy",
+      "profilePict": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/llkbyWKwpfowZ6C8peBjIV9jj99.jpg",
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    },
+    {
+      "id": 11,
+      "movieId": 8,
+      "name": "Florence Pugh",
+      "profilePict": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ogoAeJyLzam5m3JvBFg6vwI8p0I.jpg",
+      "createdAt": "2023-10-30T02:15:12.356Z",
+      "updatedAt": "2023-10-30T02:15:12.356Z"
+    }
+  ]
+}
